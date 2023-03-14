@@ -3,32 +3,53 @@
         {
             "PutRequest": {
                 "Item": {
-                  "Artist": {"S": "Iron Maiden"},
-                  "SongTitle": {"S": "Wasting Love"},
-                  "AlbumTitle": {"S": "Fear of the Dark Live"},
-                  "SongYear": {"S": "1992"}
+                  "Artist": {"S": "Wesley Safadão"},
+                  "SongTitle": {"S": "Ele Não te merece"},
+                  "AlbumTitle": {"S": "WS semm limites"},
+                  "SongYear": {"S": "2021"}
                 }
             }
         },
         {
-            "PutRequest": {
+             "PutRequest": {
                 "Item": {
-                  "Artist": {"S": "Iron Maiden"},
-                  "SongTitle": {"S": "Weekend Warrior"},
-                  "AlbumTitle": {"S": "Fear of the Dark"},
-                  "SongYear": {"S": "1992"}
+                  "Artist": {"S": "Wesley Safadão"},
+                  "SongTitle": {"S": "Porra Louca"},
+                  "AlbumTitle": {"S": "WS semm limites"},
+                  "SongYear": {"S": "2021"}
+                }
+            }
+        },
+           {
+             "PutRequest": {
+                "Item": {
+                  "Artist": {"S": "Wesley Safadão"},
+                  "SongTitle": {"S": "Passatempo"},
+                  "AlbumTitle": {"S": "WS semm limites"},
+                  "SongYear": {"S": "2021"}
+                }
+            }
+        },
+         {
+             "PutRequest": {
+                "Item": {
+                  "Artist": {"S": "Wesley Safadão"},
+                      "SongTitle": {"S": "Riqueza"},
+                  "AlbumTitle": {"S": "WS semm limites"},
+                  "SongYear": {"S": "2021"}
                 }
             }
         },
         {
-            "PutRequest": {
+             "PutRequest": {
                 "Item": {
-                  "Artist": {"S": "Iron Maiden"},
-                  "SongTitle": {"S": "Fear of the Dark"},
-                  "AlbumTitle": {"S": "Fear of the Dark Tour"},
-                  "SongYear": {"S": "1992"}
+                  "Artist": {"S": "Wesley Safadão"},
+                      "SongTitle": {"S": "Ta na boca do povo"},
+                  "AlbumTitle": {"S": "WS semm limites"},
+                  "SongYear": {"S": "2021"}
                 }
             }
-        }
+        },
+            
       ]
 }
