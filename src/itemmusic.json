@@ -2,5 +2,7 @@
   "Artist": {"S": "Wesley Safadãon"},
   "SongTitle": {"S": "Ele Não te merece"},
   "AlbumTitle": {"S": "WS Sem Limites"},
-  "SongYear": {"S": "2021"}
+  "SongYear": {"S": "2021"},
+  "Recorded": {"S": "Studio"},
+  "Genre": {"S": "Forró"}
 }
